@@ -24,8 +24,8 @@ export default function Arrival() {
           <div className="relative h-106 w-150 rounded-lg overflow-hidden">
             <Image src="/images/woman.avif" alt="Women's Collections" layout="fill" objectFit="cover" />
             <div className="absolute bottom-0 left-0 bg-black bg-opacity-60 text-white p-3 w-full">
-              <h3 className="text-md font-semibold">Women's Collections</h3>
-              <p className="text-xs">Fashionable women's items. Shop now!</p>
+              <h3 className="text-md font-semibold">Womens Collections</h3>
+              <p className="text-xs">Fashionable womens items. Shop now!</p>
             </div>
           </div>
           <div className="grid grid-cols-2 gap-8">
